@@ -6,6 +6,6 @@
 
 ¿Que es _**Typekit**_?
 
-Es un servicio en línia que proporciona a sus subscriptores acceso a su biblioteca de diferentes tipos de letra.
+**Typekit** se fundo en 2009 y en 2011 lo compro Adobe, es un servicio en línia que proporciona a sus subscriptores acceso a una alta variedad de tipos de fuente de su biblioteca.
 
 [Pagina web Typekit](https://fonts.adobe.com/)
